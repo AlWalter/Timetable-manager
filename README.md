@@ -1,6 +1,3 @@
-Task 12 - Maven
-Convert current project to Maven format.
-
 
 To complete Maven tests with custom database properties enter:
 
